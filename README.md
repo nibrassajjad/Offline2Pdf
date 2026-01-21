@@ -6,7 +6,7 @@ The application is quite self-explanatory. Just download and run it. I had to ma
 ## Application Screenshots:
 
 
-<img width="595" height="528" alt="image" src="https://github.com/user-attachments/assets/fdc76e86-38d4-40ff-90ba-c362b7d5fadb" />
+<img width="594" height="526" alt="image" src="https://github.com/user-attachments/assets/e29f9c08-3a99-4cb0-bfa0-62d45bc8eada" />
 <img width="902" height="642" alt="image" src="https://github.com/user-attachments/assets/885470f9-c163-44c1-80c5-427a2d772d80" />
 
 
